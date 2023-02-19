@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/thomas-auer-winum-75ab37253/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -14,7 +14,9 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  />
+</div>
 
 ###
 
@@ -26,14 +28,14 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thomaue.thomaue&left_color=darkblue&right_color=mediumpurple"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thomaue.thomaue&left_color=darkblue&right_color=mediumpurple"  />
 </div>
 
 ###
